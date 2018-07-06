@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/../springbootadmin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootadmin/admin-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootadmin/admin-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootadmin/eureka-client-one" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootadmin/eureka-client-two" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootadmin/eureka-client-two" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootadmin/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootadmin/turbine-service" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
