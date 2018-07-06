@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0112af44-3af2-4876-ba11-3a30f1ea72c6" name="Default" comment="" />
+    <list default="true" id="0112af44-3af2-4876-ba11-3a30f1ea72c6" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../springbootadmin/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootadmin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootadmin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootadmin/logs/boot-admin-sample.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootadmin/logs/eureka-client-one.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootadmin/logs/eureka-client-two.log" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/../springbootadmin/out/" />
     <ignored path="$PROJECT_DIR$/../springbootadmin/target/" />
     <ignored path="$PROJECT_DIR$/../springbootadmin/eureka-server/target/" />
@@ -102,6 +108,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../springbootadmin" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -212,6 +221,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -226,11 +236,6 @@
             <path>
               <item name="springbootadmin" type="b2602c69:ProjectViewProjectNode" />
               <item name="springbootadmin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootadmin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootadmin" type="462c0819:PsiDirectoryNode" />
-              <item name="logs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -384,12 +389,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530762456138</updated>
-      <workItem from="1530762457752" duration="17363000" />
+      <workItem from="1530762457752" duration="17663000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17363000" />
+    <option name="totallyTimeSpent" value="17663000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -412,12 +417,12 @@
       <window_info id="Image Layers" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Run Dashboard" visible="true" weight="0.32913166" />
+      <window_info anchor="bottom" id="Run Dashboard" weight="0.32913166" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32913166" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32913166" />
       <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17163213" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17163213" />
       <window_info anchor="right" id="Bean Validation" />
       <window_info id="Web" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" />
