@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0112af44-3af2-4876-ba11-3a30f1ea72c6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../springbootadmin/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springbootadmin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootadmin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springbootadmin/logs/boot-admin-sample.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springbootadmin/logs/eureka-client-one.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springbootadmin/logs/eureka-client-two.log" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/../springbootadmin/out/" />
     <ignored path="$PROJECT_DIR$/../springbootadmin/target/" />
@@ -24,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../springbootadmin/admin-server/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+            <state relative-caret-position="266">
+              <caret line="35" column="45" lean-forward="true" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -51,7 +47,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../springbootadmin/admin-server/src/main/resources/login.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
@@ -389,19 +385,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530762456138</updated>
-      <workItem from="1530762457752" duration="17663000" />
+      <workItem from="1530762457752" duration="17935000" />
     </task>
+    <task id="LOCAL-00001" summary="删除log文件夹">
+      <created>1530841020251</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1530841020252</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17663000" />
+    <option name="totallyTimeSpent" value="17935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50064766" side_tool="true" weight="0.3137255" />
       <window_info anchor="right" id="Maven Projects" weight="0.1865285" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info id="Capture Tool" />
@@ -419,7 +422,7 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Run Dashboard" weight="0.32913166" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32913166" />
-      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32913166" />
+      <window_info active="true" anchor="bottom" id="Version Control" sideWeight="0.49935234" visible="true" weight="0.3137255" />
       <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17163213" />
@@ -438,8 +441,38 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="删除log文件夹" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除log文件夹" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../springbootadmin/admin-server/src/main/resources/application.yml">
@@ -585,13 +618,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../springbootadmin/admin-server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../springbootadmin/admin-server/src/main/java/com/ming/config/SecurityConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -630,6 +656,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springbootadmin/admin-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="35" column="45" lean-forward="true" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
         </state>
       </provider>
     </entry>
