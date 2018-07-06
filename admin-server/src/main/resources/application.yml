@@ -1,6 +1,7 @@
 security:
   user:
     password: 123456
+    name: admin
 eureka:
   client:
     serviceUrl:
